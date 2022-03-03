@@ -1,5 +1,3 @@
-# Local_Inhibition
-
 ## Project
 
 __Learning to suppress likely distractor locations in visual search is driven by the local distractor frequency__
