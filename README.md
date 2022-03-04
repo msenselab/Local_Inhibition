@@ -22,4 +22,4 @@ This study was supported by German Science Foundation (DFG) research grants MU77
 
 ## Contents
 
-The file model.R fits the model and plot a figure of the model fit, both for the unnormalized and the normalized distractor interference data.
+The file model.R fits the model and plots a figure of the model fit, both for the unnormalized and the normalized distractor interference data.
